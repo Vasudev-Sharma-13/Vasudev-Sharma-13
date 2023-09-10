@@ -7,6 +7,7 @@
   - GANs
   - Apache PySpark
   - MongoDB
+  - Computer Vision(Pytorch,OpenCV,TensorFlow)
 
 <!--
 **Vasudev-Sharma-13/Vasudev-Sharma-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
