@@ -11,7 +11,7 @@
 
 🚀: My Stats : 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vasudev-sharma-13&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **Vasudev-Sharma-13/Vasudev-Sharma-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
