@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on Machine Learning and Data Analytics.
 - 🌱 I'm currently learning:
-  - RNN (NLP)
+  - NLP
   - GANs
   - Apache PySpark
   - MongoDB
