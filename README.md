@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   
   # 👨‍💻 Vasudev Sharma
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A44F7&center=true&vCenter=true&random=false&width=445&lines=ML+Researcher;Data+Scientist;Computer+Vision+and+Natural+Language+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A44F7&center=true&vCenter=true&random=false&width=445&lines=ML+Researcher;Data+Scientist;Computer+Vision+and+NLP+Enthusiast)](https://git.io/typing-svg)
 
   <img src="https://github-readme-stats.vercel.app/api?username=Vasudev-Sharma-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   
