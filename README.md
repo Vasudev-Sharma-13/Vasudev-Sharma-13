@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 ## 🔭 Current Research
 ```mermaid
 graph LR
-    A[Atlas Analytics Lab] --> B[Multimodal Image Analysis]
-    A --> C[Cancer Screening AI]
-    A --> D[GANs for Image Inpainting]
+    A[Atlas Analytics Lab] --> B[Multimodal Image Analysis (Vision+Language)]
+    A --> C[Large Language Models]
+    A --> D[Self-Supervised Computer Vision Models]
     style A fill:#2f3640,stroke:#0097e6
     style B fill:#273c75,stroke:#0097e6
     style C fill:#273c75,stroke:#0097e6
